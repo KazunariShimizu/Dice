@@ -1,0 +1,8 @@
+name: "NiceDicePlugin"
+version: "${project.version}"
+main: "com.toraden.dice.NiceDicePlugin"
+api-version: "1.18"
+
+commands:
+  dice:
+  
